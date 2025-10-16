@@ -37,6 +37,12 @@ Perfect if you want your TikTok media **without watermark**, clean and fast.
 
 ---
 
+## ⚠️ Important Notes
+
+**Python 3.12** is required. Using Python <3.12 may cause errors. 
+
+---
+
 ## ⚙️ Setup
 
 Run these commands in your terminal 👇
