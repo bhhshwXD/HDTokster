@@ -59,5 +59,5 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Setup TOKEN BOT
+# Setup BOT TOKEN
 BOT_TOKEN=yourbottoken
